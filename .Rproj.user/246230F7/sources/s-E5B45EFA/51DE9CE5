@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598286436361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51DE9CE5",
+    "lastKnownWriteTime" : 1598286443,
+    "last_content_update" : 1598286443909,
+    "path" : "C:/Users/User/Desktop/exploratory_analysis/plot5.R",
+    "project_path" : "plot5.R",
+    "properties" : {
+        "cursorPosition" : "76,0",
+        "scrollLine" : "53",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
